@@ -1,11 +1,9 @@
-👋hello, My name is @StylishAii.
-👀I am an AI developer and a Japanese who has lived abroad.
-I have been interested in programming for a very long time and have been working in this field for a long time.
-I have majored in many web and mobile app development programming languages, but it didn't attract my interest and I couldn't pursue my passion. 
-Now I am enjoying and rewarding my life with AI development and I am thinking this is my path and my life.
-🌱 I learn programming languages very quickly, but I am not good at learning natural languages. 
-    I am good at English, but I have difficulty with Japanese because I am not familiar with it. 
-    I am currently studying Japanese.
-💞️ I accept proposals for participation in open source projects, as well as willing to accept job offers.
-📫 You can contact me by e-mail: hira.r.0330@gmail.com.
-⚡ I love cartoon movies like a kid.
+👋 初めまして、私の名前は「平」です。
+👀 私はAIを好んでいるウェブシステムやモバイルアプリ開発者であり、海外生活経験のある日本人です。
+Webシステムの開発とモバイルアプリの開発を進めてきましたが、これがAI技術と結合されて新しい社会的実体を示すことを楽しみにしており、AI技術も一緒に磨いています。
+WebシステムでAIの価値を証明し、利益を創出するために情熱を注いでいます。
+🌱 私はプログラミング言語を非常に早く習得しますが、自然言語を学ぶのは得意ではありません。
+   私は英語は得意なのですが、日本語が苦手で苦労しています。 だから今でも日本語を勉強しています。
+💞️ オープンソースプロジェクトへの参加の申し出を受け入れ、採用の申し出を受け入れる意思があります。
+📫 メール(hira.r.0330@gmail.com)でお問い合わせください。
+⚡ 私はクラシック音楽が好きです。
