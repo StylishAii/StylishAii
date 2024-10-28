@@ -1,6 +1,8 @@
 👋 初めまして、私の名前は「星野 光哉」です。
-<br>
- https://cdnl.iconscout.com/lottie/premium/thumb/device-system-update-4917205-4091511.mp4 
+<br> 
+![再生ボタン付きのカチンコアイコン](https://github.com/user-attachments/assets/c26b42f7-1a24-4ea8-94b5-6c7d9a208ffa)
+![webDesign-ezgif com-resize](https://github.com/user-attachments/assets/360ba30a-ec6c-41a9-9e8b-41cd43b4b6ce)
+![webSystme-ezgif com-resize](https://github.com/user-attachments/assets/b6362372-93eb-4303-aabe-f4e45d71abbb)
 
 
 
