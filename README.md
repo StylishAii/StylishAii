@@ -17,6 +17,6 @@
 webシステム開発にも従事してきており、<br>
 最近では生成AIを使ったサービスを開発中です。<br>
 <br>
-📫Telegram(https://t.me/hoshino_koya)でお問い合わせください。<br>
+📠Telegram (https://t.me/hoshino_koya) でお問い合わせください。<br>
 <br>
 ⚡BUMP OF CHICKENやRADWIMPSなどの邦楽ロックバンドが好きです。<br>
