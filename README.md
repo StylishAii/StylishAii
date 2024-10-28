@@ -1,6 +1,6 @@
 👋 初めまして、私の名前は「星野 光哉」です。
 <br>
-<video loading="lazy" muted="muted" src="https://cdnl.iconscout.com/lottie/premium/thumb/device-system-update-4917205-4091511.mp4" type="video/mp4" autoplay="autoplay" loop="loop"></video>
+ https://cdnl.iconscout.com/lottie/premium/thumb/device-system-update-4917205-4091511.mp4 
 
 
 
