@@ -1,14 +1,14 @@
 👋 初めまして、私の名前は「星野 光哉」です。
 <br>
-・![再生ボタン付きのカチンコアイコン2 (1)](https://github.com/user-attachments/assets/0480406e-f2b4-42da-aafc-c37a8d04a06e) 映像制作<br>
-・webデザイン<br>
-・webシステム開発<br>
-・コピーライティング<br>
-・営業<br>
-・webマーケティング<br>
-・商品企画<br>
-・決済導入<br>
-・法人設立<br>
+・![再生ボタン付きのカチンコアイコン2 (1)](https://github.com/user-attachments/assets/0480406e-f2b4-42da-aafc-c37a8d04a06e) <b>映像制作</b><br>
+・<b>webデザイン</b><br>
+・<b>webシステム開発</b><br>
+・<b>コピーライティング</b><br>
+・<b>営業</b><br>
+・<b>webマーケティング</b><br>
+・<b>商品企画</b><br>
+・<b>決済導入</b><br>
+・<b>法人設立</b><br>
 など7年以上幅広いスキルを習得。<br>
 これらのスキルから<br>
 <b>「サービスやコンテンツの立ち上げ~セールスまで一貫して行う」</b><br>
