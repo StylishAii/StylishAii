@@ -1,14 +1,14 @@
 👋 初めまして、私の名前は「星野 光哉」です。
 <br> 
-![movie-ezgif com-resize](https://github.com/user-attachments/assets/669a09bc-eaf6-48ae-aefa-0b0c8e7a2cef) <h2>・<b>映像制作</b><br></h2>
-![webDesign-ezgif com-resize](https://github.com/user-attachments/assets/360ba30a-ec6c-41a9-9e8b-41cd43b4b6ce) <h2>・<b>webデザイン</b><br></h2>
-![webSystme-ezgif com-resize](https://github.com/user-attachments/assets/b6362372-93eb-4303-aabe-f4e45d71abbb) <h2>・<b>webシステム開発</b><br></h2>
-![copywriting-ezgif com-resize](https://github.com/user-attachments/assets/b2df2514-6905-4b24-a0a0-351c2f287e70) <h2>・<b>コピーライティング</b><br></h2>
-![sales-ezgif com-resize](https://github.com/user-attachments/assets/bf398385-785e-401f-959f-c000ada13868) <h2>・<b>営業</b><br></h2>
-![advertising-ezgif com-resize](https://github.com/user-attachments/assets/4d64ad23-2365-4063-a187-3129fd7530de) <h2>・<b>webマーケティング</b><br></h2>
-![product-ezgif com-resize](https://github.com/user-attachments/assets/5aa44b0a-0c15-4b21-b1d1-d503e1c84384) <h2>・<b>商品企画</b><br></h2>
-![payment-ezgif com-resize](https://github.com/user-attachments/assets/486d3e8f-8f71-4971-bbdc-049e817e1147) <h2>・<b>決済導入</b><br></h2>
-![corporation-ezgif com-resize](https://github.com/user-attachments/assets/0e011afe-6fcf-4352-8016-6803eff5b5ae) <h2>・<b>法人設立</b><br></h2>
+![movie-ezgif com-resize](https://github.com/user-attachments/assets/669a09bc-eaf6-48ae-aefa-0b0c8e7a2cef) <h2>・<b>映像制作</b></h2>
+![webDesign-ezgif com-resize](https://github.com/user-attachments/assets/360ba30a-ec6c-41a9-9e8b-41cd43b4b6ce) <h2>・<b>webデザイン</b></h2>
+![webSystme-ezgif com-resize](https://github.com/user-attachments/assets/b6362372-93eb-4303-aabe-f4e45d71abbb) <h2>・<b>webシステム開発</b></h2>
+![copywriting-ezgif com-resize](https://github.com/user-attachments/assets/b2df2514-6905-4b24-a0a0-351c2f287e70) <h2>・<b>コピーライティング</b></h2>
+![sales-ezgif com-resize](https://github.com/user-attachments/assets/bf398385-785e-401f-959f-c000ada13868) <h2>・<b>営業</b></h2>
+![advertising-ezgif com-resize](https://github.com/user-attachments/assets/4d64ad23-2365-4063-a187-3129fd7530de) <h2>・<b>webマーケティング</b></h2>
+![product-ezgif com-resize](https://github.com/user-attachments/assets/5aa44b0a-0c15-4b21-b1d1-d503e1c84384) <h2>・<b>商品企画</b></h2>
+![payment-ezgif com-resize](https://github.com/user-attachments/assets/486d3e8f-8f71-4971-bbdc-049e817e1147) <h2>・<b>決済導入</b></h2>
+![corporation-ezgif com-resize](https://github.com/user-attachments/assets/0e011afe-6fcf-4352-8016-6803eff5b5ae) <h2>・<b>法人設立</b></h2>
 <br> 
  
 など7年以上幅広いスキルを習得。<br>
